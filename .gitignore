@@ -1,0 +1,21 @@
+__pycache__/
+
+db.*
+
+# Environments
+.env*
+
+# Static files
+staticfiles
+static
+static/
+staticfiles/
+media
+media/
+
+*.log
+*.pot
+*.pyc
+venv/
+.vscode
+

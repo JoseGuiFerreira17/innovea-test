@@ -1,0 +1,9 @@
+SECRET_KEY = SECRET_KEY_NOT_GOOD
+DEBUG = True
+ALLOWED_HOSTS = 127.0.0.1, localhost
+SQL_ENGINE = django.db.backends.postgresql
+SQL_DATABASE = db.article
+SQL_USER = postgres
+SQL_PASSWORD = postgres
+SQL_HOST = localhost
+SQL_PORT = 5432
